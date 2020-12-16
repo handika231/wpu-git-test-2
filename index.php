@@ -10,6 +10,9 @@
 <body>
     <h2>membuat file php</h2>
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa voluptatum, sed rem in, voluptas distinctio, totam est eos minus dolor suscipit!</p>
+    <ul>
+        <li>hahahaha</li>
+    </ul>
 </body>
 
 </html>
